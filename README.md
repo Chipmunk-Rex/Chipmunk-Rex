@@ -1,7 +1,6 @@
 
 
 <center>
-
 <img src="https://i.esdrop.com/d/f/QQvALvRITo/uv4DClMJrj.png" img><br/>
 <br/>
 
