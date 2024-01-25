@@ -1,6 +1,6 @@
 - 👋 나는 다람쥐
 - 👀 게임 좋아하는 다람쥐
-- 🌱 게임 만드는거 배우는중중
+- 🌱 게임 만드는거 배우는중
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: 다람쥐
