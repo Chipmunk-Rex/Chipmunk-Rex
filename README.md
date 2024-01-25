@@ -28,6 +28,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chipmunk-Rex&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 <br/>
+
+
+## Links
+
 <a href="https://discord.gg/C9TBB8rhqH">
 
 ![Discord](https://img.shields.io/badge/-discord_Server-5865F2?&style=for-the-badge&logo=Discord&logoColor=ffffff)
