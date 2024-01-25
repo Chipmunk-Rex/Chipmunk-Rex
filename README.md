@@ -35,7 +35,6 @@
 <a href="https://discord.gg/C9TBB8rhqH">
 
 ![Discord](https://img.shields.io/badge/-discord_Server-5865F2?&style=for-the-badge&logo=Discord&logoColor=ffffff)
-    </a>
-    <a href="https://www.youtube.com/channel/UCa9n1qOtYbuIgQ7PJNxW7Rw">
-![Discord](https://img.shields.io/badge/-youtube_channel-FF0000?&style=for-the-badge&logo=Discord&logoColor=ffffff)
+</a><a href="https://www.youtube.com/channel/UCa9n1qOtYbuIgQ7PJNxW7Rw">
+![Youtube](https://img.shields.io/badge/-youtube_channel-FF0000?&style=for-the-badge&logo=Discord&logoColor=ffffff)
     </a>    
