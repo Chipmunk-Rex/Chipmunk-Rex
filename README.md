@@ -9,34 +9,58 @@
 **I am a student of <a href="https://ggm-h.goeay.kr/ggm-h/main.do"><img src="https://i.esdrop.com/d/f/QQvALvRITo/KiLttpuf1t.png" width="60px" height="10px" alt="R"></img>Gyeonggi Game Meister High School**
 </a>
 🏫
+# Hi there, I'm Chipmunk-Rex! :wave:
 
-## 📖 I am Learning 📖
+## :rocket: About Me
+
+I'm a passionate and dedicated game development student currently exploring the exciting world of creating interactive experiences. I'm eager to learn new technologies and tools to enhance my game development skills. My goal is to contribute to the gaming industry by crafting engaging and innovative games.
+
+## :tools: Skills
+
+- Programming Languages: C#, C++, Python
+- Frontend: Unity, Unreal Engine, HTML, CSS, JavaScript
+- Backend: Node.js, .NET
+- Databases: MySQL, MongoDB
+- Tools & Platforms: Git, Visual Studio, Blender
+
+## :telescope: Current Projects
+
+- **[Project 1 Title]**: [Brief description of Project 1, e.g., A 2D platformer game developed in Unity with a focus on challenging level design and engaging gameplay.]
+- **[Project 2 Title]**: [Brief description of Project 2, e.g., A 3D exploration game built in Unreal Engine 4 featuring procedural generation and dynamic lighting.] 
+
+## :seedling: I'm Currently Learning
+
+- I'm currently learning more about **advanced game AI techniques** such as behavior trees and finite state machines.
+- I'm currently improving my skills in **shader programming** to create visually stunning effects in my games. 
+
+## :mailbox: How to Reach Me
+
+- Email: [Your Email Address] 
+- LinkedIn: [Your LinkedIn Profile URL (optional)]
+
+## :smile: Fun Facts
+
+- I'm an avid gamer and enjoy playing a variety of genres, from RPGs to strategy games.
+- I love learning about new technologies and exploring their potential applications.
+- I'm a big fan of [mention a favorite game, game developer, or game genre].
+
+## :bar_chart: GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Chipmunk-Rex&show_icons=true)
+
+## :trophy: GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chipmunk-Rex)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+⭐️ From [Chipmunk-Rex](https://github.com/Chipmunk-Rex) 
 
 
+**Remember to:**
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-Git-000000?&style=for-the-badge&logo=github&logoColor=ffffff)
-
-## 📊 Status 📊
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chipmunk-Rex&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chipmunk-Rex&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chipmunk-Rex&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-<br/>
-
-##  Links
-<a href="https://discord.gg/C9TBB8rhqH">
-
-![Discord](https://img.shields.io/badge/-discord_Server-5865F2?&style=for-the-badge&logo=Discord&logoColor=ffffff)
-</a><a href="https://www.youtube.com/channel/UCa9n1qOtYbuIgQ7PJNxW7Rw">
-![Youtube](https://img.shields.io/badge/-youtube_channel-FF0000?&style=for-the-badge&logo=Discord&logoColor=ffffff)
-    </a>
-</div>
+- Replace the bracketed placeholders with your own information.
+- Consider adding links to your projects if they are publicly available.
+- Customize the skills section based on your actual expertise.
+- Feel free to add more sections or remove sections that are not relevant to you. 
+- Make it your own and let your personality shine through!
