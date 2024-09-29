@@ -19,8 +19,8 @@ I'm a passionate and dedicated game development student currently exploring the 
 
 ## :telescope: Current Projects
 
-- **[Project 1 Title]**: [Brief description of Project 1, e.g., A 2D platformer game developed in Unity with a focus on challenging level design and engaging gameplay.] ([GitHub Repository Link - if available])
-- **[Project 2 Title]**: [Brief description of Project 2, e.g., A 3D exploration game built in Unreal Engine 4 featuring procedural generation and dynamic lighting.] ([GitHub Repository Link - if available])
+- **ChipmunkRPG**: A 2D RPG game being developed as a team project for the 2nd semester engine course. This project is being built with Unity by a team of three, and I am the sole main developer.  ([GitHub Repository](https://github.com/Chipmunk-Rex/ChipmunkRPG))
+- **Chipmunk-Library**: This is a collection of library code that I created and use when developing with Unity. It includes various utility functions, UI components, and game logic scripts that I find helpful in my projects. ([GitHub Repository](https://github.com/Chipmunk-Rex/Chipmunk-Library))
 
 ## :seedling: I'm Currently Learning
 
