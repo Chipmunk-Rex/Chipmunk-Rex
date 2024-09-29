@@ -7,7 +7,7 @@
 ## :rocket: About Me
 
 I am a student of <a href="https://ggm-h.goeay.kr/ggm-h/main.do"><img src="https://i.esdrop.com/d/f/QQvALvRITo/KiLttpuf1t.png" width="60px" height="10px" alt="R"></img>Gyeonggi Game Meister High School</a> 🏫 <br/> 
-I'm a passionate and dedicated game development student currently exploring the exciting world of creating interactive experiences. I'm eager to learn new technologies and tools to enhance my game development skills. My goal is to contribute to the gaming industry by crafting engaging and innovative games.
+I'm a passionate and dedicated game development student. I'm eager to learn new technologies and tools to enhance my game development skills. My goal is to contribute to the gaming industry by crafting engaging and innovative games.
 
 ## 🔧 Skills
 
