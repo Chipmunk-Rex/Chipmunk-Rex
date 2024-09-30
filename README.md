@@ -33,7 +33,7 @@ I'm a passionate and dedicated game development student. I'm eager to learn new 
 
 ## :smile: Fun Facts
 
-- I'm an avid gamer and enjoy playing a variety of genres, from RPGs to strategy games. My favorite game is [Your Favorite Game].
+- I'm an avid gamer and enjoy playing a variety of genres, from RPGs to strategy games. Minecraft favorite game is Minecra.
 - I love learning about new technologies and exploring their potential applications, especially in the field of game development.
 - I'm a Chipmunk, not a Squirrel! 🐿️ 
 
