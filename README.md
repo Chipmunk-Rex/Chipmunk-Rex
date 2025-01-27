@@ -44,6 +44,5 @@ I'm a passionate and dedicated game development student. I'm eager to learn new 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chipmunk-Rex)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 ⭐️ From [Chipmunk-Rex](https://github.com/Chipmunk-Rex) 
