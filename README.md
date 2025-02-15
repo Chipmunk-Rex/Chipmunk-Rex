@@ -17,10 +17,6 @@ I'm a passionate and dedicated game development student. I'm eager to learn new 
 - 🛠️ Tools & Platforms: Git, Visual Studio, Blender, Visual Studio Code
 
 ## :telescope: Current Projects
-
-- **ChipmunkRPG**: A 2D RPG game being developed as a team project for the 2nd semester engine course. This project is being built with Unity by a team of three, and I am the sole main developer.  ([GitHub Repository](https://github.com/Chipmunk-Rex/ChipmunkRPG))
-- **Chipmunk-Library**: This is a collection of library code that I created and use when developing with Unity. It includes various utility functions, UI components, and game logic scripts that I find helpful in my projects. ([GitHub Repository](https://github.com/Chipmunk-Rex/Chipmunk-Library))
-
 ## :seedling: I'm Currently Learning
 
 - I'm currently learning more about **advanced game AI techniques** such as behavior trees and finite state machines.
